@@ -1,0 +1,8 @@
+MM Translation Dumping notes.
+
+PAL Rom Language Info:
+
+Spanish Translation 0x0002 begins at 0x00B3F90C
+Spanish Translation 0x0000 begins at 0x00B3F70C, I think.
+
+
